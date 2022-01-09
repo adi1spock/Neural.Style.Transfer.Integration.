@@ -9,5 +9,5 @@ Neural style transfer is an optimization technique used to take two images—a c
 
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.[You can learn more about it here.](https://www.tensorflow.org/tutorials/generative/style_transfer)
 ## Working Example
-![gui](Screenshot (4330).png)
-![web cam style transfer](Screenshot (4331).png)
+![gui](/Screenshot (4330).png)
+![web cam style transfer](/Screenshot (4331).png)
